@@ -3,6 +3,7 @@
 /**
  * Module dependencies.
  */
+ // 我在这里加一个测试
 var config = require('../config'),
   // mongoose为mongodb的链接包
   mongoose = require('./mongoose'),

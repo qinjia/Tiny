@@ -60,10 +60,7 @@
     "validator": "^3.41.2"
   },
   "devDependencies": {
-<<<<<<< HEAD
     "core-util-is": "^1.0.1",
-=======
->>>>>>> origin/master
     "coveralls": "^2.11.4",
     "grunt-concurrent": "^2.0.0",
     "grunt-contrib-copy": "~0.8.0",
